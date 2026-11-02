@@ -1,3 +1,17 @@
 # git
 
-This repository was initialized from the local `git` workspace.
+`FFFuture/git` 的代码仓库，目前处于项目初始化阶段。
+
+## 开始使用
+
+项目技术栈确定后，请在此补充：
+
+- 环境要求
+- 安装依赖
+- 本地运行
+- 测试与检查
+- 构建与发布
+
+## AI 协作
+
+仓库维护规范见 [AGENTS.md](AGENTS.md)。提交代码前请确保本地修改聚焦、验证通过，并排除密钥、缓存和构建产物。
